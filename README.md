@@ -20,5 +20,3 @@ The dataset contains labeled URLs: legitimate (0) and phishing (1).
 ## Example URLs
 - Phishing: http://www.cheapdomain.cn/fakepaypal  
 - Legit: https://www.google.com
-
-" > /content/phishing-detection-ml/README.md
