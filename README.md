@@ -1,4 +1,4 @@
-echo "# Phishing Website Detection using ML"
+## Phishing Website Detection using ML
 
 This project detects phishing websites using Machine Learning.  
 It is built with Python, Scikit-learn, and Google Colab.
